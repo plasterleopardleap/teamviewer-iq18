@@ -1,4 +1,4 @@
-# 
+# updated VMware Workstation PC版 插件 是最佳 VMware Workstation PC版 插件，集成 远程访问 和 性能优化。安全、可靠、优化，性能最大化。
 
 
 
